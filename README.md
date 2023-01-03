@@ -6,4 +6,5 @@
 *vscode-python插件：https://github.com/microsoft/vscode-python/releases
 
 *google 翻译 cmd(管理员)输入：echo 142.250.4.90 translate.googleapis.com >> C:\Windows\System32\drivers\etc\hosts & ipconfig /flushdns > nul
+
 142.250.4.90（截至2023.01.03可用） 
