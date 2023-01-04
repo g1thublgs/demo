@@ -19,6 +19,7 @@ https://github.com/PKUFlyingPig/cs-self-learning
 - python 解决Fatal error in launcher:错误问题 https://www.jb51.net/article/187013.htm
 
 ## python 国内镜像
+- 例子：在pip install xxxx 后面加 -i https://pypi.tuna.tsinghua.edu.cn/simple
 - 阿里云 https://mirrors.aliyun.com/pypi/simple/
 - 豆瓣 https://pypi.douban.com/simple/
 - 清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
