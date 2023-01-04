@@ -33,5 +33,5 @@ https://github.com/PKUFlyingPig/cs-self-learning
 ## python 删除所有第三方库
 - https://blog.csdn.net/LM813381916/article/details/127787047
 
-## 2022最新Typora破解激活教程
+## Markdown编辑器-2022最新Typora破解激活教程
 - https://baijiahao.baidu.com/s?id=1740851053333949382&wfr=spider&for=pc
