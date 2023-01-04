@@ -24,3 +24,7 @@ https://github.com/PKUFlyingPig/cs-self-learning
 - 清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
 - 中国科学技术大学 https://pypi.mirrors.ustc.edu.cn/simple/
 - 华中科技大学 https://pypi.hustunique.com/
+
+## python 离线安装第三方库
+- 呕心沥血整理，python离线安装第三方库（带疑难杂症实例）！！！https://www.iotword.com/4045.html
+- python如何离线安装第三方库 https://blog.51cto.com/u_15477333/4925660
