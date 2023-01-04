@@ -28,3 +28,6 @@ https://github.com/PKUFlyingPig/cs-self-learning
 ## python 离线安装第三方库
 - 呕心沥血整理，python离线安装第三方库（带疑难杂症实例）！！！https://www.iotword.com/4045.html
 - python如何离线安装第三方库 https://blog.51cto.com/u_15477333/4925660
+
+## python 删除所有第三方库
+- https://blog.csdn.net/LM813381916/article/details/127787047
