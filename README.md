@@ -14,3 +14,13 @@ https://github.com/microsoft/vscode-python/releases
 
 ## 计算机自学指南
 https://github.com/PKUFlyingPig/cs-self-learning
+
+## python 错误大全
+- python 解决Fatal error in launcher:错误问题 https://www.jb51.net/article/187013.htm
+
+## python 国内镜像
+- 阿里云 https://mirrors.aliyun.com/pypi/simple/
+- 豆瓣 https://pypi.douban.com/simple/
+- 清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+- 中国科学技术大学 https://pypi.mirrors.ustc.edu.cn/simple/
+- 华中科技大学 https://pypi.hustunique.com/
