@@ -31,11 +31,9 @@ python -m pip install xxx -i https://pypi.tuna.tsinghua.edu.cn/simple
 - [呕心沥血整理，python离线安装第三方库（带疑难杂症实例）！！！](https://www.iotword.com/4045.html)
 - [python如何离线安装第三方库 ](https://blog.51cto.com/u_15477333/4925660)
 - [window下python怎么离线安装tar.gz](https://jingyan.baidu.com/article/ceb9fb1011c41cccad2ba0e9.html)
-## python 删除所有第三方库
-- https://blog.csdn.net/LM813381916/article/details/127787047
+## [python 删除所有第三方库](https://blog.csdn.net/LM813381916/article/details/127787047)
 
-## Markdown编辑器-2022最新Typora破解激活教程
-- https://baijiahao.baidu.com/s?id=1740851053333949382&wfr=spider&for=pc
+## [Markdown编辑器-2022最新Typora破解激活教程](https://baijiahao.baidu.com/s?id=1740851053333949382&wfr=spider&for=pc)
 
 ## jupyter nbextensions 下载安装
 ```
