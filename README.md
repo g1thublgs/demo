@@ -35,3 +35,16 @@ https://github.com/PKUFlyingPig/cs-self-learning
 
 ## Markdown编辑器-2022最新Typora破解激活教程
 - https://baijiahao.baidu.com/s?id=1740851053333949382&wfr=spider&for=pc
+
+## jupyter nbextensions 下载安装
+```
+python -m pip install jupyter_contrib_nbextensions -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
+启动jupyter notebook出现nbextensions插件不显示问题，运行以下代码
+```
+python -m jupyter nbextensions_configurator enable
+```
+确保以上两个库（jupyter_contrib_nbextensions和jupyter_nbextensions_configurator）安装完毕之后，执行以下代码安装 javascript and css files
+```
+python -m jupyter contrib nbextension install --user
+```
