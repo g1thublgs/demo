@@ -49,6 +49,9 @@ python -m jupyter contrib nbextension install --user
 ```
 ## 离线批量安装python第三方库
 - 1.在有网电脑上参照有互联网环境下安装库的步骤，安装你所需要的库。
+```
+python -m pip install xxx -i https://pypi.tuna.tsinghua.edu.cn/simple/
+```
 - 2.将安装的库导出为文本文件，文本中字母后面的数字是版本号，不用删掉
 ```
 python -m pip freeze req.txt
