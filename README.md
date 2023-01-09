@@ -66,3 +66,6 @@ python -m pip download -r req.txt -d pkg -i https://pypi.tuna.tsinghua.edu.cn/si
 ```
 python -m pip install --no-index --find-links=pkg -r req.txt
 ```
+## python封装exe可执行文件
+- [jupyter notebook 生成 .exe 文件](https://blog.csdn.net/qq_44676358/article/details/127955480)
+- [Python代码在64位电脑上打包发布32位exe程序的一种方法](https://blog.csdn.net/qilei2010/article/details/124289358)
