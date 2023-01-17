@@ -54,7 +54,7 @@ python -m pip install xxx -i https://pypi.tuna.tsinghua.edu.cn/simple/
 ```
 - 2.将安装的库导出为文本文件，文本中字母后面的数字是版本号，不用删掉
 ```
-python -m pip freeze req.txt
+python -m pip freeze > req.txt
 ```
 - 3.编辑 req.txt ，只保留需要导出的库名称
 - 4.将req.txt里面列出的库文件下载到pkg目录
